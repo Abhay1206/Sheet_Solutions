@@ -11,7 +11,7 @@ public class Question5 {
 	public static void main(String[] args) {
 		 
 		int nums[]= {1,3,5,4,2};
-		
+		// find next permutation
 		nextPer(nums);
 		System.out.println(Arrays.toString(nums));
       
